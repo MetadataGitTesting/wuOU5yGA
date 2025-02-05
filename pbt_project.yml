@@ -1,0 +1,49 @@
+name: rodrigo.hills
+description: approach
+version: 0.0.1
+author: mtrsgkxc.auhs1wki@aigkwd9c.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: rodrigohills
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-05 10:04:12'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-05 10:04:12'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-05T10:04:12.87276Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '1096069604'
+  createdAt: '2025-02-05T10:04:12.87276Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
